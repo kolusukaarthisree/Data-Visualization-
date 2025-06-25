@@ -1,0 +1,51 @@
+passenger_id,survived,pclass,name,sex,age,sibsp,parch,fare,embarked
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,7.25,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,71.2833,C
+3,1,3,"Heikkinen, Miss. Laina",female,26,0,0,7.925,S
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,53.1,S
+5,0,3,"Allen, Mr. William Henry",male,35,0,0,8.05,S
+6,0,3,"Moran, Mr. James",male,,0,0,8.4583,Q
+7,0,1,"McCarthy, Mr. Timothy",male,54,0,0,51.8625,S
+8,0,3,"Palsson, Master. Gosta Leonard",male,2,3,1,21.075,S
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,11.1333,S
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,30.0708,C
+11,0,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,16.7,S
+12,1,1,"Bonnell, Miss. Elizabeth",female,58,0,0,26.55,S
+13,0,3,"Saundercock, Mr. William Henry",male,20,0,0,7.25,S
+14,0,3,"Andersen, Mr. Aage Thorodd",male,30,0,0,8.05,S
+15,0,3,"Skoog, Mr. Wilhelm",male,40,0,0,7.75,S
+16,1,2,"Lindqvist, Mr. Einar",male,28,0,0,12.2875,S
+17,1,1,"Bourke, Mrs. John (Catherine)",female,45,1,0,39.6,S
+18,0,3,"Harris, Mr. George",male,30,0,0,8.05,S
+19,0,3,"Sage, Mr. John",male,25,0,0,7.225,S
+20,1,1,"Carter, Mrs. Ernest (Lucile Polk)",female,29,1,0,211.3375,C
+21,0,3,"Bourke, Mr. John",male,40,0,0,7.75,S
+22,1,2,"Hewlett, Mrs. (Mary D)",female,30,0,0,12.35,S
+23,0,3,"Harris, Mr. William",male,35,0,0,8.05,S
+24,1,1,"Fleming, Miss. Elizabeth",female,30,0,0,50.0,C
+25,0,3,"Bishop, Mr. William",male,45,0,0,8.05,S
+26,1,1,"Smith, Mrs. John (Margaret)",female,40,1,0,80.0,C
+27,0,3,"Bourke, Mr. Thomas",male,50,0,0,7.75,S
+28,1,2,"Hewitt, Miss. Mary",female,25,0,0,12.5,S
+29,0,3,"Meyer, Mr. John",male,35,0,0,8.05,S
+30,1,1,"Brown, Mrs. John (Anna)",female,28,1,0,100.0,C
+31,0,3,"Johnson, Mr. William",male,22,0,0,7.25,S
+32,1,1,"Williams, Mrs. John (Margaret)",female,45,1,0,50.0,C
+33,0,3,"Anderson, Mr. John",male,30,0,0,8.05,S
+34,1,2,"Bishop, Mrs. John (Margaret)",female,35,1,0,30.0,C
+35,0,3,"Miller, Mr. George",male,40,0,0,7.75,S
+36,1,1,"Davis, Mrs. John (Margaret)",female,50,1,0,100.0,C
+37,0,3,"Clark, Mr. John",male,28,0,0,7.25,S
+38,1,1,"Thayer, Mrs. John (Florence)",female,38,1,0,75.0,C
+39,0,3,"Smith, Mr. William",male,35,0,0,8.05,S
+40,1,2,"Jones, Mrs. John (Margaret)",female,30,0,0,12.5,S
+41,0,3,"Taylor, Mr. John",male,22,0,0,7.25,S
+42,1,1,"Wilson, Mrs. John (Margaret)",female,45,1,0,50.0,C
+43,0,3,"Harris, Mr. George",male,30,0,0,8.05,S
+44,1,2,"Miller, Mrs. John (Margaret)",female,35,1,0,30.0,C
+45,0,3,"Clark, Mr. John",male,28,0,0,7.25,S
+46,1,1,"Davis, Mrs. John (Margaret)",female,50,1,0,100.0,C
+47,0,3,"Smith, Mr. William",male,35,0,0,8.05,S
+48,1,2,"Johnson, Mrs. John (Margaret)",female,30,0,0,12.5,S
+49,0,3,"Taylor, Mr. John",male,22,0,0,7.25,S
+50,1,1,"Wilson, Mrs. John (Margaret)",female,45,1,0,50.0,C
